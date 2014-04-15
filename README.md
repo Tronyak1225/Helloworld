@@ -12,3 +12,4 @@ git init
 
 touch README
 # Creates a file called "README" in your Hello-World directory
+## This is a markdown file
