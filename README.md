@@ -14,7 +14,7 @@ touch README
 # Creates a file called "README" in your Hello-World directory
 ## This is a markdown file
 
-#$ git remote add origin https://github.com/username/Hello-World.git
+#$ git remote add origin https://github.com/tronyak1225/Hello-World.git
 # Creates a remote named "origin" pointing at your GitHub repository
 
 $ git push origin master
